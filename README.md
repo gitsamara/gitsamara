@@ -7,6 +7,9 @@ Comunicativa, curiosa e dinâmica. Amo solucionar problemas e me sentir parte do
   <img align="center" alt="Samara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Samara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Samara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Samara-SQL" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+  <img align="center" alt="Samara-C" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+  
 </div>
   
   ##
